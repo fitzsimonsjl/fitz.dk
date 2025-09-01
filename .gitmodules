@@ -1,0 +1,3 @@
+[submodule "themes/vanilje"]
+	path = themes/vanilje
+	url = https://github.com/fitzsimonsjl/vanilje
