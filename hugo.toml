@@ -8,7 +8,7 @@ enableEmoji = true
 [params]
   dateFormat = "02 Jan 2006"
   [params.author]
-    email = 'blog@fitzsimons.dk'
+    email = 'blog@fitz.dk'
     name = 'Jack Fitzsimons'
     copyright = '© 2025 Jack Fitzsimons'
 
