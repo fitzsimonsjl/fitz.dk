@@ -1,5 +1,5 @@
 theme = 'vanilje'
-baseURL = "https://fitz.dk"
+baseURL = 'https://fitz.dk'
 languageCode = 'en-US'
 title = "Mainframes... and less"
 enableEmoji = true
