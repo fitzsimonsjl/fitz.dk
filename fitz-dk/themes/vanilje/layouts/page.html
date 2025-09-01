@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format ":date_long" }}
+  {{ if eq (.Type | singularize) "post" }}
+  {{ .Params.date.Format .Site.Params.dateFormat }}
+  <p>{{ .WordCount }} words | Estimated reading time: {{ .ReadingTime }} minutes </p>
+  {{ end }}
+  {{ .Content }}
+  {{ if eq (.Type | singularize) "post" }}
+  <h6 class="reply-via-email"><a href="mailto:blog@fitzsimons.dk?subject=Re:%20{{ .Title }}">Reply via email</a></h6>
+  {{ end }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}
