@@ -5,21 +5,6 @@ description: "A guide for replacing Windows with Ubuntu on a Surface Go 3 device
 draft: false
 ---
 
-### Table of Contents
-
-[Introduction](#introduction)\
-[Some prerequisites](#prereqs)\
-[First boot](#first-boot)\
-[Preparing to install Ubuntu](#prep-install-ubuntu)\
-[Installing Ubuntu](#install-ubuntu)\
-[Post-install](#post-install)\
-[Re-enabling Secure Boot](#re-enable-secure-boot)\
-[Conclusion and fixing some annoyances](#conclusion)
-
-
-
-<a name="introduction"/>
-
 ### Introduction
 
 As much as I love a decently sized screen (ideally a 15" laptop), sometimes it isn't entirely practical. This is especially true when travelling or at a coffee shop when I already have my work laptop in my bag along with everything else. For that reason, I wanted something smaller that I could still use to update this blog, take notes, and do light coding with.
@@ -30,16 +15,12 @@ For a while, I almost resigned myself to just buying a 13" laptop, but I had som
 
 Getting the Surface (many different types, suprisingly) running Linux is incredibly straightforward, though I did have a few hiccups along the way. So, for the sake of documenting it for myself (at least as of April 2023) and for anyone else who wants to do the same, here's how to get your Surface Go up and running with Ubuntu (22.10 being the latest version at the time of writing).
 
-<a name="prereqs"/>
-
 ### Some prerequisites
 
 For this to work, you're going to need a few things:
 
 - Your Microsoft Surface device charged to at least 40% or more
 - A USB stick that has a USB-C connection - **please do not skip this, save yourself some hassle instead**
-
-<a name="first-boot"/>
 
 ### First boot
 
@@ -67,8 +48,6 @@ Once you are at the Windows desktop, hit the Windows key and type "Settings", th
 
 ---
 
-<a name="prep-install-ubuntu"/>
-
 ### Preparing to install Ubuntu
 
 At this point, all firmware updates should be finished, and your Surface Go will have restarted a number of times during the process. Now that we have that out of the way, we can take our USB stick (with a USB-C connection as noted above) and plug it into the Surface Go.
@@ -76,8 +55,6 @@ At this point, all firmware updates should be finished, and your Surface Go will
 Next, head to the [Canonical website to download Ubuntu](https://ubuntu.com/download/desktop). Whilst you have your browser open, open a new tab and [download Balena Etcher along with it](https://www.balena.io/etcher). We'll use Etcher to make a bootable USB of Ubuntu so that we can install it on our Surface.
 
 Once both files have been downloaded, open Etcher and click "Select image", Here, pick the Ubuntu iso file we just downloaded. Click "Select device" and choose the USB stick that is plugged into the Surface. Finally, click "Flash" and wait till it says the flashing process is complete.
-
-<a name="install-ubuntu"/>
 
 ### Installing Ubuntu
 
@@ -95,8 +72,6 @@ You now have two ways of getting the Surface Go to boot from your newly created 
 If you were successful, you should now see the same loading animation you've seen previously, but this time also an Ubuntu logo.
 
 Go through the Ubuntu installation setup - either you can choose to install Ubuntu alongside Windows, or wipe Windows altogether. Personally, I prefer to get rid of Windows altogether because the Surface Go only has a 128GB SSD, meaning space is at a premium.
-
-<a name="post-install"/>
 
 ### Post-install
 
@@ -125,9 +100,6 @@ echo "deb [arch=amd64] https://pkg.surfacelinux.com/debian release main" \
 # Updating our packages and installing the linux-surface packages
 sudo apt update && sudo apt install linux-image-surface linux-headers-surface libwacom-surface iptsd
 ```
-
-<a name="re-enable-secure-boot"/>
-
 ### Re-enabling Secure Boot
 
 If you want to re-enable Secure Boot, you'll need to import the linux-surface Secure Boot key:
@@ -137,8 +109,6 @@ sudo apt install linux-surface-secureboot-mok
 ```
 
 Shut down your Surface entirely and press and hold the volume up and power button (to enter the BIOS, like before). Under the Secure Boot option, change "None" to "Microosft and 3rd Party CA". After exiting you'll then be presented with the the MOK enrollment screen. Choose "MOK enrollment", select "Yes", and your Surface should then boot to the Ubuntu login screen.
-
-<a name="conclusion"/>
 
 ### Conclusion (...and fixing small annoyances)
 
