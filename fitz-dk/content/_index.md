@@ -1,4 +1,4 @@
-Here you can find my writing on tech, privacy, and cybersecurity - with the ocassional personal thing or two thrown in here and there.
+Here you can find my writing on tech, privacy, and security - with the ocassional personal thing or two thrown in here and there.
 
 As I spend most of my day job doing cloud and mainframe things, naturally they're going to most likely be written about a lot. With that said, the usual disclaimer: all opinions are entirely my own and do not reflect the views of my employer.
 
