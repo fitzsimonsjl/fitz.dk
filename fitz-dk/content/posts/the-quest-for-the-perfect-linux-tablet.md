@@ -100,6 +100,7 @@ echo "deb [arch=amd64] https://pkg.surfacelinux.com/debian release main" \
 # Updating our packages and installing the linux-surface packages
 sudo apt update && sudo apt install linux-image-surface linux-headers-surface libwacom-surface iptsd
 ```
+
 ### Re-enabling Secure Boot
 
 If you want to re-enable Secure Boot, you'll need to import the linux-surface Secure Boot key:
