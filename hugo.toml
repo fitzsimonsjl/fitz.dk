@@ -42,4 +42,4 @@ enableEmoji = true
     extended = false
     min = '0.146.0'
   [[module.imports]]
-    path = "https://github.com/fitzsimonsjl/vanilje"
+    path = "github.com/fitzsimonsjl/vanilje"
