@@ -1,3 +1,9 @@
 [submodule "themes/vanilje"]
 	path = themes/vanilje
 	url = https://github.com/fitzsimonsjl/vanilje
+[submodule "fitz-dk-latest/vanilje"]
+	path = fitz-dk-latest/vanilje
+	url = https://github.com/fitzsimonsjl/vanilje
+[submodule "fitz-dk-latest/themes/vanilje"]
+	path = fitz-dk-latest/themes/vanilje
+	url = https://github.com/fitzsimonsjl/vanilje
