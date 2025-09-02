@@ -1,4 +1,3 @@
-theme = 'vanilje'
 baseURL = 'https://fitz.dk'
 languageCode = 'en-US'
 title = 'Mainframes & More'
@@ -42,3 +41,5 @@ enableEmoji = true
   [module.hugoVersion]
     extended = false
     min = '0.146.0'
+  [[module.imports]]
+    path = "github.com/fitzsimonsjl/vanilje"
