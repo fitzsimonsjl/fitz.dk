@@ -28,8 +28,7 @@ enableEmoji = true
 
 [outputs]
   home = ['html']
-  posts = ['html', 'rss']
-  section = ['html']
+  section = ['html', 'rss']
   taxonomy = ['html']
   term = ['html']
 
