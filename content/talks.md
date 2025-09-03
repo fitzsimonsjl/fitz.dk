@@ -6,7 +6,7 @@ Below you'll find conference talks and webinars I've given or am set to give.
 
 | Talk Title | Event | Video Link | Slides Link |
 |------------|-------|------------|-------------|
-| Fun Having; Mainframe Hacking - Exploring z/OS | [BSides Oslo](https://bsidesoslo.no/) | N/A | N/A |
+| Fun Having; Mainframe Hacking - Exploring z/OS | [BSides Oslo 2025](https://bsidesoslo.no/) | N/A | N/A |
 
 ### Previous :arrow_down:
 
