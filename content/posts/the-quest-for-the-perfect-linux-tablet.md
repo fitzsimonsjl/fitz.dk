@@ -2,6 +2,7 @@
 title: "In search of the perfect Linux tablet (or close enough)"
 date: 2023-04-05T12:30:00+01:00
 description: "A guide for replacing Windows with Ubuntu on a Surface Go 3 device"
+tags: [personal]
 draft: false
 ---
 
