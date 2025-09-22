@@ -5,3 +5,5 @@ description: "A little how-to on the latest Hugo way of managing components of y
 tags: [Personal]
 draft: true
 ---
+
+It's been more than a little while since I've touched this blog - around 2 years, and it turns out a few things have changed 
