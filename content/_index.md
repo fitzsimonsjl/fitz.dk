@@ -10,7 +10,7 @@ If you spot any errors (spelling or otherwise) in anything written across this s
 
 If you'd like to get in touch with me in another way or see how I've been getting on with personal projects, you can find me on:
 
-- [Wire](@0xfitz)
-- [LinkedIn](https://dk.linkedin.com/in/jacklukefitzsimons)
-- [Mastodon](https://infosec.exchange/@jfitzsimo)
+- [LinkedIn](https://www.linkedin.com/in/fitzjl/)
 - [GitHub](https://github.com/fitzsimonsjl)
+- [Mastodon](https://infosec.exchange/@jfitzsimo)
+- [Wire](@0xfitz)
