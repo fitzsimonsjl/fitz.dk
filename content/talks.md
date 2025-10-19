@@ -7,6 +7,7 @@ Below you'll find conference talks and webinars I've given or am set to give.
 | Talk Title | Event | Video Link | Slides Link |
 |------------|-------|------------|-------------|
 | Fun Having; Mainframe Hacking - Exploring z/OS | [BSides Oslo 2025](https://bsidesoslo.no/) | N/A | N/A |
+| From Zero to Hero With z/OS | [Disobey 2026](https://disobey.fi/2026) | N/A | N/A |
 
 ### Previous :arrow_down:
 
