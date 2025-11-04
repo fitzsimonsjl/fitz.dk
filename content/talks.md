@@ -4,9 +4,13 @@ Below you'll find conference talks and webinars I've given or am set to give.
 
 ### Upcoming :arrow_up:
 
+<!--
+
 | Talk Title | Date | Event | Video Link | Slides Link |
 |------------|------|-------|------------|-------------|
 | From Zero to Hero With z/OS | 13-14th Feb 2026 | [Disobey 2026](https://disobey.fi/2026) | N/A | N/A |
+
+-->
 
 ### Previous :arrow_down:
 
