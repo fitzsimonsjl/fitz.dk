@@ -18,7 +18,7 @@ For now, I’ll leave a couple of good blog posts on getting into security resea
 ## So you want to write a decent Call for Papers/Proposals...
 2025 has been a pretty good year for giving talks and presentations (both internally and and externally), and with a couple more already planned for 2026, I figured its time to look back and reflect on what makes a good Call for Papers (or Proposal - you pick), otherwise known as a CFP.
 
-> [!note] 
+> [!NOTE] 
 > As per usual - all views are my own. I’m only writing here what I feel makes a good CFP based on the talks I’ve given so far. This isn’t meant to be prescriptive in what constitutes best practice. Feel free to take bits and pieces if you feel they’re of use to you.
 
 Over the past couple of years (starting at the tail end of 2023), my success rate is 5 out of 7 - or around 71% for getting a talk accepted. Now, I can’t legitimately put that all down to my writing alone. Though I consider myself a decent writer, I’m definitely no Hemingway. It’s also quite likely that as my interests within security are quite niche (mainframes), that it’s something interesting to put in the schedule that doesn’t really get talked about a lot and by default increases my chances somewhat. 
