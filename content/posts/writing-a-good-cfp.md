@@ -1,13 +1,13 @@
 ---
 title: "Writing a Good CFP That Gets Your Talk Accepted"
-date: 2025-12-19T18:00:00+01:00
+date: 2025-12-20T18:00:00+01:00
 description: "Some thoughts on putting together a good Call for Papers or Call for Proposals conference submission."
 tags: [Personal, Conferences]
 draft: false
 ---
 
 ## Introduction
-This is part one of what will probably become a 2 or 3 part series around doing research/giving conference talks. I probably should have started with the whole “how do I get into doing research?” question first, but quite honestly, I tend to just talk about what interests me, and this one sort of flowed easier, so it is what it is. Cart, meet horse. 
+This is part one of what will probably become a two or three part series around doing research/giving conference talks. I probably should have started with the whole “how do I get into doing research?” question first, but this one sort of flowed easier, so it is what it is. Cart, meet horse. 
 
 For now, I’ll leave a couple of good blog posts on getting into security research until I find the time (inevitably in about 3 months or so) and come back to write up something more mainframe focused...
 
@@ -18,9 +18,13 @@ For now, I’ll leave a couple of good blog posts on getting into security resea
 ## So you want to write a decent Call for Papers/Proposals...
 2025 has been a pretty good year for giving talks and presentations (both internally and and externally), and with a couple more already planned for 2026, I figured its time to look back and reflect on what makes a good Call for Papers (or Proposal - you pick), otherwise known as a CFP.
 
-**As per usual - all views are my own. I’m only writing here what I feel makes a good CFP based on the talks I’ve given so far. This isn’t meant to be prescriptive in what constitutes best practice. Feel free to take bits and pieces if you feel they’re of use to you.**
+---
 
-Over the past couple of years (starting at the tail end of 2023), my success rate is 5 out of 7 - or around 71% for getting a talk accepted. Now, I can’t legitimately put that all down to my writing alone. Though I consider myself a decent writer, I’m definitely no Hemingway. It’s also quite likely that as my interests within security are quite niche (mainframes), that it’s something interesting to put in the schedule that doesn’t really get talked about a lot and by default increases my chances somewhat. 
+As per usual - all views are my own. I’m only writing here what I feel makes a good CFP based on the talks I’ve given so far. This isn’t meant to be prescriptive in what constitutes best practice. Feel free to take bits and pieces if you feel they’re of use to you.
+
+---
+
+Over the past couple of years (starting at the tail end of 2023), my success rate is 5 out of 7 - or around 71% for getting a talk accepted. Now, I can’t legitimately put that all down to my writing alone. Though I consider myself a decent writer, I’m definitely no Hemingway. It’s also quite possible that as my interests within security are quite niche (mainframes), that it’s something interesting to put in the schedule that doesn’t really get talked about a lot and by default increases my chances somewhat. 
 
 Realistically, if the conference in question is well known and gets a) a lot of attendees and b) has a decent reputation for the quality of speakers, then the chances are that whoever is on the board reviewing what comes in is going to be wading through far more proposals than they know what to do with. 
 
@@ -38,9 +42,10 @@ Both of them make it clear that the topic is mainframe related - with one specif
 ## Be explicit in the abstract
 By explicit, I mean that your abstract should do the following things:
 - Pose the question or statement that your talk will answer (whether this is proving or disproving something)
+- If it isn't a specific question or statement problem, and you're just talking about cool research you've done or cool tool you've made, then give a high overview of the journey you took
 - Let attendees know what they will get out of it so they can decide whether they want to turn up and watch you present
 
-Taking one of my previous CFPs for a conference earlier this year as an example, the abstract was:
+Using an example of a previously submitted CFP:
 
 > ...“Today mainframes are commonly thought of as outdated and legacy technology - with most not realising that although your AD might be the keys to the kingdom within the company, your mainframe is still the crown jewels. They also still underpin a lot more of society than we think, and are an integral part of day-to-day life from card transactions through to airlines and supermarkets.
 > 
@@ -57,17 +62,17 @@ Normally when submitting a CFP, there are some mandatory fields that often at a 
 - The public abstract 
 - Notes for the organisers (not public)
 - Possibly some others such as links to previous conference talks
-- A place for you to include a link to draft slides - we’ll come back to this one!
+- A place for you to include a link to draft slides - we’ll come back to this one
 
 Although it might seem counterintuitive at first thought - seeing as it’s not going to be published on the conference website, I feel that the “Notes for the organisers” section is probably where you should add the most detail. They are, after all, the people who will be deciding whether your talk makes the cut. 
 
-This is especially true when there are either a few different tracks to pick from in terms of subject matter, or if there are a few different lengths of talk slots (e.g. 20, 40, or 60 minutes). You need to make it clear to them that you’re not wasting their time by lobbing a not so well thought out submission over the fence, and justify what exactly you plan on doing with the time that your slot would give you. 
+This is especially true when there are either a few different tracks to pick from in terms of subject matter, or if there are a few different lengths of talk slots (e.g. 20, 40, or 60 minutes). This is where you can make it clear to them that you’re not wasting their time by lobbing a not so well thought out submission over the fence, and lay out what exactly you plan on doing with the time that your slot would give you. 
 
 Use the field to go into detail on what exactly the topic of your talk is, what it’s going to cover, and give an indication if possible of each section with rough timings so that the organisers know you’ve thought about the best way to use the talk slot. 
 
 Lastly, you can also leave things more open ended and mention that this is how you see the talk going, but that you’re open to feedback. If the conference you’re submitting to happens to offer things like practice/dry runs or presentation feedback for chosen presenters whose talk makes the cut, then they’re going to appreciate that you’ve put time in up front and are open to improvements so that your talk is the best it can be.
 
-To give an example, here’s what went into the “Notes to organisers” for a past CFP:
+Using another previously submitted CFP example, here's what went into a "Notes for the organisers" section:
 
 > ...“Mainframes underpin a lot more of society than we think - banks, airlines, supermarkets, day-to-day card transactions etc. Daily life would become much more inconvenient - or come to a halt entirely, without them. Yet many in the security community still know very little about them and/or consider them legacy technology.
 > 
@@ -100,7 +105,7 @@ To give an example, here’s what went into the “Notes to organisers” for a 
  - How you’re going to break the talk down by section so it’s clear what is being covered 
  - What attendees will learn from your talk (which is one of, if not the main reason why they’ll be wanting to give you a talk slot to begin with)
 
-By doing all these things and adhering to a similar format, you’re making it as easy as possible for the organisers to make a quick decision on whether your talk goes further and improves your chances of getting accepted. If they’ve got any questions, or thing another angle might be better suited, you’ve also given them plenty to work with in terms of what they feel would go down best.
+By doing all these things and adhering to a similar format, you’re making it as easy as possible for the organisers to make a quick decision on whether your talk goes further for final review and improves your chances of getting accepted. If they’ve got any questions, or thing another angle might be better suited, you’ve also given them plenty to work with in terms of what they feel would go down best based on events held in previous years.
 
 ## Misc advice
 This section is for last few things that didn’t really fit anywhere in the above, written in no particular order.
@@ -113,16 +118,22 @@ When looking at the conference website CFP page, you’ll usually get a solid fe
 
 On another note - location is always one to bear in mind. Though some conferences will fully/partially cover some travel or accommodation costs for you speaking, if it’s a smaller event then there’s every chance that they may not. Just something to consider before you find yourself saying yes to speaking and then having to figure out the cheapest way to somewhere else in Europe (or the US) from wherever you’re based.
 
+**Don't overdo  your speaker bio**
+
+There's definitely going to be a field for you to fill in about yourself that will get published along with your talk abstract. Use it to give a bit of background about yourself - what your focus at work is on, where you're based, a bit about your experience. Even better - include mentions of previous conferences you've presented at (if any). With that said, don't go ham and use it as a spot to exhaustively list every single certification you've got, or give a detailed work history. 
+
+This is going to come across as potentially controversial, but I've - so far, at least - noticed a relatively high correlation between the amount of space used for a speakers bio on the things mentioned above and the actual technical level/polish of their talk not being up to the same standard.
+
 **Preparing some draft slides** 
 
-I’ve been seeing draft slides as a requirement more frequently in recent years, and to be perfectly honest I don’t think it’s a bad thing. Don’t get me wrong, I’m all for Talk Driven Development (TDD), but I also understand where the organisers are coming from. When you get 60+ submissions that are just vague bullet points that don’t really make a coherent case for why they should get the talk slot of which there are only 10 or 20, it can be a lot of work sorting the wheat from the chaff.
+I’ve been seeing draft slides as a requirement more frequently in recent years, and to be perfectly honest I don’t think it’s a bad thing. Don’t get me wrong, I’m all for Talk Driven Development (TDD), but I also understand where the organisers are coming from. When you get 60 or 80+ submissions that are just vague bullet points that don’t really make a coherent case for why they should get the talk slot of which there are only 10 or 20, it can be a lot of work sorting the wheat from the chaff.
 
-A CFP asking for draft slides doesn’t mean that they expect you to submit a fully polished and finalised slide deck. What they really want to see is that you’ve put some thought into the things that we’ve covered above. In the majority of cases, an agenda slide and some chapter slides with a few slides detailing what you’re going to cover in each section is plenty. Don’t let the idea of having to make some slides just to submit put you off!
+A CFP asking for draft slides doesn’t mean that they expect you to submit a fully polished and finalised slide deck. What they really want to see is that you’ve put some thought into the things that we’ve covered earlier. In the majority of cases, an agenda slide and some chapter slides with a few slides detailing what you’re going to cover in each section is plenty. Don’t let the idea of having to make some slides just to submit put you off!
 
 ## Closing thoughts
-Hopefully this has been somewhat useful in giving you an idea of how to put together a half decent CFP - and I really hope that I see some of your talks at the next lot of conferences I’m going to.
+By putting a bit more effort into your submission at the start (TDD aside - because there’s nothing like a hard deadline to force yourself to get the research finished in time for the talk!), you’ll get a better end result. Bear in mind that the people who come to the conference and are going to see your talk have paid to do so, potentially having travelled a decent distance. The organisers chose your talk to be one of the few available slots - don't do them or the attendees or disservice by not respecting their time and effort by getting up on stage without having polished your talk as much as you reasonably can.
 
-By putting a bit more effort into your submission at the start (TDD aside - because there’s nothing like a hard deadline to force yourself to get the Research finished in time for the talk!), you’ll get a better end result.
+Hopefully this has been somewhat useful in giving you an idea of how to put together a half decent CFP - and I really hope that I see some of your talks at the next lot of conferences I’m going to.
 
 In the next post, I’ll go through some tips on putting together a good slide deck once you’ve got a talk submission accepted.
 
