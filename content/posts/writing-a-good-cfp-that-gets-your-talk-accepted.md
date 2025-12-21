@@ -105,7 +105,7 @@ Using another previously submitted CFP example, here's what went into a "Notes f
  - How you’re going to break the talk down by section so it’s clear what is being covered 
  - What attendees will learn from your talk (which is one of, if not the main reason why they’ll be wanting to give you a talk slot to begin with)
 
-By doing all these things and adhering to a similar format, you’re making it as easy as possible for the organisers to make a quick decision on whether your talk goes further for final review and improves your chances of getting accepted. If they’ve got any questions, or thing another angle might be better suited, you’ve also given them plenty to work with in terms of what they feel would go down best based on events held in previous years.
+By doing all these things and adhering to a similar format, you’re making it as easy as possible for the organisers to make a quick decision on whether your talk goes further for final review and improves your chances of getting accepted. If they’ve got any questions, or think another angle might be better suited, you’ve also given them plenty to work with in terms of what they feel would go down best based on events held in previous years.
 
 ## Misc advice
 This section is for last few things that didn’t really fit anywhere in the above, written in no particular order.
