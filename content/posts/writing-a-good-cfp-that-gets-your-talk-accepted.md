@@ -1,6 +1,6 @@
 ---
 title: "Writing a Good CFP That Gets Your Talk Accepted"
-date: 2025-12-20T18:00:00+01:00
+date: 2025-12-20
 description: "Some thoughts on putting together a good Call for Papers or Call for Proposals conference submission."
 tags: [Personal, Conferences]
 draft: false

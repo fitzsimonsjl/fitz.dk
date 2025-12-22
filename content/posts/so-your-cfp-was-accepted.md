@@ -32,7 +32,7 @@ A couple of bullet points with what you do for a day job, where you’re from, a
 
 Most importantly, the organisers chose your talk for a reason - the audience will trust that you know what you’re talking about for the topic of your talk. You don’t need to use the slide about yourself to justify why you’re up there giving your talk.
 
-## Make the font way bigger than you think it should be
+## Make the font bigger than you think necessary
 Unless it’s an incredibly small venue, be mindful of the people towards the middle and the back who aren’t going to be able to see the screen as easily as those at the very front. Take the font size you think you should use, double it, and then add a few more font point sizes to it. If it starts with a 3 (e.g. 36), you’re probably in the right ballpark.
 
 This is something I tend to do the morning of once I’m at the venue. On more than one occasion, I’ve realised that the screen I’ll be presenting on is a good bit bigger than expected.
