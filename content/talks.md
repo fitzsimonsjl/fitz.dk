@@ -1,11 +1,12 @@
 Below you'll find conference talks and webinars I've given or am set to give.
 
-## Public Conferences and Events
+## Conferences and Events
 
 ### Upcoming :arrow_up:
 
 | Talk Title | Date | Event | Video Link | Slides Link |
 |------------|------|-------|------------|-------------|
+| Mainframe Pentesting: An Introduction | 10th Feb 2026 | Arbeids- og velferdsetaten (NAV) Oslo | N/A | N/A |
 | From Zero to Hero With z/OS | 13-14th Feb 2026 | [Disobey 2026](https://disobey.fi/2026) | N/A | N/A |
 | Insane in the Mainframe | 27th Feb 2026 | [Securi-Tay 2026](https://securi-tay.co.uk) | N/A | N/A | 
 
@@ -18,10 +19,4 @@ Below you'll find conference talks and webinars I've given or am set to give.
 | How Much Dirty Laundry Are Your Smart Devices Airing About You? | 16th-17th Feb 2024 | [Disobey 2024](https://disobey.fi/2024/) | N/A | N/A |
 | Life Without Google or Apple In Your Pocket: Protecting Your Data | 11th Nov 2023 | [BSides København 2023](https://2023.bsideskbh.dk/) | N/A | N/A |
 
-## Industry Events
-
-| Talk Title | Event | Video Link | Slides Link |
-|------------|-------|------------|-------------|
-| Getting Started With Google Consent Mode | [Cookie Information Webinar](https://webinar.cookieinformation.com/) | N/A | N/A |
-| Styling Your Consent Banner | [Cookie Information Webinar](https://webinar.cookieinformation.com/) | N/A | N/A |
 
