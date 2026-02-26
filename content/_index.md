@@ -1,4 +1,4 @@
-Here you can find my writing/general ramblings on tech, privacy, and security - with the ocassional personal thing or two thrown in here and there. "Occasional Thoughts" because I've done a crap job of keeping this blog up to date - something I'm planning to remedy in 2026. 
+General ramblings on tech, privacy, and security - with the ocassional personal thing or two thrown in here and there. "Occasional Thoughts" because I've done a crap job of keeping this blog up to date - something I'm planning to try remedy in 2026. 
 
 As I spend most of my day job doing mainframe and cloud things, naturally they're going to be the most likely be written about. With that said, the usual disclaimer: all opinions are entirely my own and do not reflect the views of my employer.
 
@@ -11,4 +11,3 @@ If you'd like to get in touch with me in another way or see how I've been gettin
 - [LinkedIn](https://www.linkedin.com/in/fitzjl/)
 - [GitHub](https://github.com/fitzsimonsjl)
 - [Mastodon](https://infosec.exchange/@jfitzsimo)
-- [Wire](@0xfitz)
