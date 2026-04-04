@@ -2,7 +2,6 @@
 title: "Welcoming the end of the WebKit era (maybe)"
 date: 2023-02-16
 description: "Some thoughts on Apple's WebKit requirements and what dropping it might mean for the future in terms of privacy and security."
-tags: [tech]
 draft: false
 ---
 

@@ -2,7 +2,6 @@
 title: "How This Site Is Made - Hugo, GitHub Pages, and GitHub Actions"
 date: 2023-04-10
 description: "Simplifying the deployment of this site with GitHub Pages and GitHub Actions"
-tags: [tech]
 draft: false
 ---
 ## What exactly is a Static Site Generator (SSG)?
