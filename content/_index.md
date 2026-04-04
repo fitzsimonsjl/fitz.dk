@@ -9,5 +9,4 @@ There's no ability to comment on posts because I don't want to spend time modera
 If you'd like to get in touch with me in another way or see how I've been getting on with personal projects, you can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/fitzjl/)
-- [GitHub](https://github.com/fitzsimonsjl)
 - [Mastodon](https://infosec.exchange/@jfitzsimo)
