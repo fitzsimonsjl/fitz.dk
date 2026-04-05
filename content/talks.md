@@ -4,14 +4,13 @@ Below you'll find conference talks and webinars I've given or am set to give.
 
 ### Upcoming :arrow_up:
 
-| Talk Title | Date | Event | Video Link | Slides Link |
-|------------|------|-------|------------|-------------|
-| Insane in the Mainframe | 27th Feb 2026 | [Securi-Tay 2026](https://securi-tay.co.uk) | N/A | N/A | 
+Nothing for now...
 
 ### Previous :arrow_down:
 
 | Talk Title | Date | Event | Video Link | Slides Link |
 |------------|------|-------|------------|-------------|
+| Insane in the Mainframe | 27th Feb 2026 | [Securi-Tay 2026](https://securi-tay.co.uk) | N/A | N/A | 
 | From Zero to Hero With z/OS | 13-14th Feb 2026 | [Disobey 2026](https://disobey.fi/2026) | N/A | N/A |
 | Mainframe Pentesting: An Introduction | 10th Feb 2026 | Arbeids- og velferdsetaten (NAV) Oslo | N/A | N/A |
 | Fun Having; Mainframe Hacking - Exploring z/OS | 30th Oct 2025 | [BSides Oslo 2025](https://bsidesoslo.no/) | N/A | N/A |

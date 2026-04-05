@@ -19,7 +19,7 @@ For now, I’ll leave a couple of good blog posts on getting into security resea
 
 ---
 
-As per usual - all views are my own. I’m only writing here what I feel makes a good CFP based on the talks I’ve given so far. This isn’t meant to be prescriptive in what constitutes best practice. Feel free to take bits and pieces if you feel they’re of use to you.
+**_As per usual - all views are my own. I’m only writing here what I feel makes a good CFP based on the talks I’ve given so far. This isn’t meant to be prescriptive in what constitutes best practice. Feel free to take bits and pieces if you feel they’re of use to you._**
 
 ---
 
