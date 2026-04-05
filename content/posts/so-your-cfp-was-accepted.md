@@ -5,7 +5,7 @@ description: "Some thoughts on putting together a good Call for Papers or Call f
 draft: false
 ---
 
-# Introduction
+## Introduction
 Following on from the post last week on [putting together a decent Call for Proposal](https://fitz.dk/posts/writing-a-good-cfp-that-gets-your-talk-accepted/) let’s go through some things to bear in mind when putting together your slides - roughly in order of importance.
 
 ## Give yourself enough time to prepare 
