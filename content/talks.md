@@ -4,8 +4,6 @@ custom_title_value: Talks
 ---
 Below you'll find conference talks and webinars I've given or am set to give.
 
-## Conferences and Events
-
 ### Upcoming :arrow_up:
 
 Nothing for now...
