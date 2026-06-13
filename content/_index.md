@@ -1,4 +1,4 @@
-"Occasional Thoughts" because I've done a crap job of keeping this blog up to date - something I'm planning to try remedy in 2026. 
+"Occasional Thoughts" because I've done a crap job of keeping this blog up to date - something I'm ~~planning to try remedy~~ failing miserably at in 2026. 
 
 As I spend most of my day job doing mainframe and cloud things, naturally they're going to be the most likely be written about. With that said, the usual disclaimer: all opinions are entirely my own and do not reflect the views of my employer.
 

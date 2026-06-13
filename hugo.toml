@@ -25,6 +25,10 @@ enableEmoji = true
     name = 'Talks'
     pageRef = '/talks'
     weight = 30
+  [[menus.main]]
+    name = 'Now'
+    pageRef = '/now'
+    weight = 40
 
 [outputs]
   home = ['html']
