@@ -1,3 +1,7 @@
+---
+custom_title_enabled: true
+custom_title_value: Now
+---
 **Last updated: June 2026**
 
 ## Work

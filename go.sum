@@ -20,3 +20,5 @@ github.com/fitzsimonsjl/vanilje v0.0.0-20260404204129-0477708ccf35 h1:ggjTcX2BgG
 github.com/fitzsimonsjl/vanilje v0.0.0-20260404204129-0477708ccf35/go.mod h1:ndahQbr71KBIFgOWXogckpfH5feRZoZ4tvxq6t1+gQo=
 github.com/fitzsimonsjl/vanilje v0.0.0-20260405181556-5e26037ee886 h1:iN1EdT95zrspTudFYoK5PWDsO97hF12DwwRpPC3jJMA=
 github.com/fitzsimonsjl/vanilje v0.0.0-20260405181556-5e26037ee886/go.mod h1:ndahQbr71KBIFgOWXogckpfH5feRZoZ4tvxq6t1+gQo=
+github.com/fitzsimonsjl/vanilje v0.0.0-20260613162158-5d960e63dfff h1:T17VosmBojV6K/Inaw9EPSRyMYiThYPJl+0176LBecw=
+github.com/fitzsimonsjl/vanilje v0.0.0-20260613162158-5d960e63dfff/go.mod h1:ndahQbr71KBIFgOWXogckpfH5feRZoZ4tvxq6t1+gQo=

@@ -1,3 +1,7 @@
+---
+custom_title_enabled: true
+custom_title_value: Talks
+---
 Below you'll find conference talks and webinars I've given or am set to give.
 
 ## Conferences and Events
