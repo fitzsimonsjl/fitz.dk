@@ -79,6 +79,8 @@ The highlights...
 
 **Mocha TN3270** - for connecting to the mainframe in my kitchen...
 
+**Tailscale** - used for accessing all homelab related things when I'm out of the house.
+
 **Tuta Mail** - for other email (secondary to Proton). By the end of the year it's likely I'll have consolidated everything to Proton.
 
 
